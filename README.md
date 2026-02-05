@@ -71,7 +71,7 @@ A análise aponta que o atrito nesta organização não ocorre de forma aleatór
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/1Pereira/people-analytics.git](https://github.com/1Pereira/people-analytics.git)
+    git clone [https://github.com/1Pereira/people-analytics.git]
     ```
 2.  Instale as dependências:
     ```bash
